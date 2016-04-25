@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./ccorneliitaciti00brotgoog_0051.png"; bbox 0 0 2446 3942; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 231 238 990 342">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 231 238 990 342">
+     <span class='ocr_line' id='line_1_1' title="bbox 231 238 990 342; baseline 0.008 -5"><span class='ocrx_word' id='word_1_1' title='bbox 231 272 301 338; x_wconf 67' lang='lat' dir='ltr'>xiii</span> <span class='ocrx_word' id='word_1_2' title='bbox 519 261 855 342; x_wconf 81' lang='lat' dir='ltr'><strong>PRAEFATI‘O.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 978 238 990 262; x_wconf 28' lang='grc' dir='ltr'>ἱ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 224 419 1202 773">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 224 402 1202 773">
+     <span class='ocr_line' id='line_1_2' title="bbox 226 419 1146 517; baseline -0.002 -19"><span class='ocrx_word' id='word_1_4' title='bbox 226 426 447 517; x_wconf 68' lang='lat' dir='ltr'>:templaribus</span> <span class='ocrx_word' id='word_1_5' title='bbox 470 425 539 499; x_wconf 86' lang='lat' dir='ltr'>suis</span> <span class='ocrx_word' id='word_1_6' title='bbox 562 429 676 500; x_wconf 54' lang='lat' dir='ltr'>illitasi</span> <span class='ocrx_word' id='word_1_7' title='bbox 702 427 894 503; x_wconf 80' lang='lat' dir='ltr'><strong>Nonnullas</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 917 419 1021 500; x_wconf 78' lang='lat' dir='ltr'>etiam</span> <span class='ocrx_word' id='word_1_9' title='bbox 1045 422 1146 515; x_wconf 81' lang='lat' dir='ltr'>reperi</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 226 552 1202 646; baseline -0.004 -22"><span class='ocrx_word' id='word_1_10' title='bbox 226 556 263 624; x_wconf 88' lang='lat' dir='ltr'>in</span> <span class='ocrx_word' id='word_1_11' title='bbox 286 554 369 624; x_wconf 86' lang='lat' dir='ltr'><strong><em>Mss.</em></strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 386 552 592 624; x_wconf 58' lang='lat' dir='ltr'>Adversariis</span> <span class='ocrx_word' id='word_1_13' title='bbox 609 555 770 641; x_wconf 83' lang='lat' dir='ltr'>Dionysii</span> <span class='ocrx_word' id='word_1_14' title='bbox 793 552 953 646; x_wconf 68' lang='lat' dir='ltr'>Perivu,</span> <span class='ocrx_word' id='word_1_15' title='bbox 977 555 1065 628; x_wconf 79' lang='lat' dir='ltr'>tanti</span> <span class='ocrx_word' id='word_1_16' title='bbox 1085 553 1146 624; x_wconf 82' lang='lat' dir='ltr'>viri</span> <span class='ocrx_word' id='word_1_17' title='bbox 1201 558 1202 570; x_wconf 61' lang='lat'>¹</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 224 677 796 773; baseline 0.007 -25"><span class='ocrx_word' id='word_1_18' title='bbox 224 677 415 752; x_wconf 76' lang='lat' dir='ltr'>eruditione</span> <span class='ocrx_word' id='word_1_19' title='bbox 438 679 530 754; x_wconf 78' lang='lat' dir='ltr'><strong>haud</strong></span> <span class='ocrx_word' id='word_1_20' title='bbox 553 678 707 773; x_wconf 81' lang='lat' dir='ltr'>indignas</span> <span class='ocrx_word' id='word_1_21' title='bbox 730 684 796 756; x_wconf 59' lang='lat' dir='ltr'>&amp;ci</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1228 3942">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1228 3942">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1228 3942; baseline 0 0"><span class='ocrx_word' id='word_1_22' title='bbox 0 0 1228 3942; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
